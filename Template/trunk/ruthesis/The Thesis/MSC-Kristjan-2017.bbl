@@ -1,0 +1,289 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{none/global/}
+    \entry{LARGE-POWER-TRANSFORMERS-AND-THE-U.S.ELECTRIC-GRID}{article}{}
+      \name{author}{2}{}{%
+        {{hash=36f119a50f4e5d2354649600e37251b0}{%
+           family={Patricia\bibnamedelima Hoffman},
+           family_i={P\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Assistant\bibnamedelima Secretary},
+           given_i={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=72683e2b059925cc697e35db41d0ba01}{%
+           family={William\bibnamedelima Bryan},
+           family_i={W\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Deputy\bibnamedelimb Assistant\bibnamedelima Secretary},
+           given_i={D\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4b9e15ab5ba5faf538f6c15b89a0c79}
+      \strng{fullhash}{c4b9e15ab5ba5faf538f6c15b89a0c79}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Infrastructure Security and Energy Restoration Office of Electricity Delivery and Energy Reliability U.S. Department of Energy}
+      \field{year}{2012}
+    \endentry
+    \entry{Power_Electronics}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e8bf3fb4acf4d9f4fd4997cf9b0ee7fe}{%
+           family={Hart},
+           family_i={H\bibinitperiod},
+           given={Daniel\bibnamedelima W.},
+           given_i={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Mcgraw-Hill Education}%
+      }
+      \strng{namehash}{e8bf3fb4acf4d9f4fd4997cf9b0ee7fe}
+      \strng{fullhash}{e8bf3fb4acf4d9f4fd4997cf9b0ee7fe}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Power Electronics}
+      \field{year}{2011}
+      \field{pages}{265\bibrangedash 267}
+      \range{pages}{3}
+    \endentry
+    \entry{Salam_2016}{book}{}
+      \name{author}{2}{}{%
+        {{hash=2b8d4ab9fcd5ad1514c6799de34c8f67}{%
+           family={Salam},
+           family_i={S\bibinitperiod},
+           given={Md.\bibnamedelimi Abdus},
+           given_i={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=62caf0e9d61a500d636469de95ede001}{%
+           family={Rahman},
+           family_i={R\bibinitperiod},
+           given={Quazi\bibnamedelima M.},
+           given_i={Q\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Singapore}%
+      }
+      \strng{namehash}{5db73f30644f800b457ea2af6aa4b5ee}
+      \strng{fullhash}{5db73f30644f800b457ea2af6aa4b5ee}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Power Systems}
+      \field{title}{Transformer: Principles and Practices}
+      \field{year}{2016}
+      \field{pages}{49\bibrangedash 99}
+      \range{pages}{51}
+      \verb{doi}
+      \verb 10.1007/978-981-10-0446-9_2
+      \endverb
+    \endentry
+    \entry{Constantin_2012}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ea3fbc4a8d584366743e33cd847e0525}{%
+           family={Constantin},
+           family_i={C\bibinitperiod},
+           given={Iulia\bibnamedelima Cristina},
+           given_i={I\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=7775a12e7fa4b1cdc3e2601d2c48f4c8}{%
+           family={Iliescu},
+           family_i={I\bibinitperiod},
+           given={Sergiu\bibnamedelima Stelian},
+           given_i={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{f9ec17da0eea201849140734290cc397}
+      \strng{fullhash}{f9ec17da0eea201849140734290cc397}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2012 13th International Conference on Optimization of Electrical and Electronic Equipment ({OPTIM})}
+      \field{month}{05}
+      \field{title}{Automatic voltage regulation of the transformer units implemented in digital multifunction protection systems}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1109/OPTIM.2012.6231763
+      \endverb
+    \endentry
+    \entry{Trans_Diff87T}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=1b67444712537972f22ec1fe6fdff8fc}{%
+           family={Pouyadou},
+           family_i={P\bibinitperiod},
+           given={Laurent},
+           given_i={L\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Schneider Electric}%
+      }
+      \strng{namehash}{1b67444712537972f22ec1fe6fdff8fc}
+      \strng{fullhash}{1b67444712537972f22ec1fe6fdff8fc}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{V1.0}
+      \field{month}{06}
+      \field{title}{Transformer Differential ANSI 87T Parameter Setting Guide}
+      \field{year}{2006}
+    \endentry
+    \entry{Pillai_2004}{article}{}
+      \name{author}{17}{}{%
+        {{hash=e0036f0270a6e311cd9d8d03cb185d83}{%
+           family={Pillai},
+           family_i={P\bibinitperiod},
+           given={P.},
+           given_i={P\bibinitperiod}}}%
+        {{hash=d4835bced27e4afdd27ccb29ee94cda3}{%
+           family={Bailey},
+           family_i={B\bibinitperiod},
+           given={B.G.},
+           given_i={B\bibinitperiod}}}%
+        {{hash=1b1fbbf51b7b0eed63ca9dd21e2e0f31}{%
+           family={Bowen},
+           family_i={B\bibinitperiod},
+           given={J.},
+           given_i={J\bibinitperiod}}}%
+        {{hash=e592f4b256ee4195fae35e54ec4bb903}{%
+           family={Dalke},
+           family_i={D\bibinitperiod},
+           given={G.},
+           given_i={G\bibinitperiod}}}%
+        {{hash=39bd8d117f27b8d84d3dcd7d79cf968b}{%
+           family={Douglas},
+           family_i={D\bibinitperiod},
+           given={B.G.},
+           given_i={B\bibinitperiod}}}%
+        {{hash=6bbdd54ef2c1da5e1363ba93991bd0ad}{%
+           family={Fischer},
+           family_i={F\bibinitperiod},
+           given={J.},
+           given_i={J\bibinitperiod}}}%
+        {{hash=4f8102491da9c5b96ea5ace67d261896}{%
+           family={Jones},
+           family_i={J\bibinitperiod},
+           given={J.R.},
+           given_i={J\bibinitperiod}}}%
+        {{hash=8f28a3608f7d7fc2a82abed47e8b2a43}{%
+           family={Love},
+           family_i={L\bibinitperiod},
+           given={D.J.},
+           given_i={D\bibinitperiod}}}%
+        {{hash=d00d43c92db9816eab9aa10febfc1ff2}{%
+           family={Mozina},
+           family_i={M\bibinitperiod},
+           given={C.J.},
+           given_i={C\bibinitperiod}}}%
+        {{hash=92aa592be497273decdde26b239dd9a6}{%
+           family={Nichols},
+           family_i={N\bibinitperiod},
+           given={N.},
+           given_i={N\bibinitperiod}}}%
+        {{hash=5f8f66cabc2ea7e499803e3822fb9764}{%
+           family={Normand},
+           family_i={N\bibinitperiod},
+           given={C.},
+           given_i={C\bibinitperiod}}}%
+        {{hash=dc385f7c36b34a29700e1bd529ac469a}{%
+           family={Padden},
+           family_i={P\bibinitperiod},
+           given={L.},
+           given_i={L\bibinitperiod}}}%
+        {{hash=4bcfcab35f4180452c76b3ec2c69cd84}{%
+           family={Pierce},
+           family_i={P\bibinitperiod},
+           given={A.},
+           given_i={A\bibinitperiod}}}%
+        {{hash=a22efa0d87af9085ab94947c698d834f}{%
+           family={Powell},
+           family_i={P\bibinitperiod},
+           given={L.J.},
+           given_i={L\bibinitperiod}}}%
+        {{hash=5cc76e9779a7bd7be34ecd100a631569}{%
+           family={Shipp},
+           family_i={S\bibinitperiod},
+           given={D.D.},
+           given_i={D\bibinitperiod}}}%
+        {{hash=0b5a4c78c919568f8d66207391d52411}{%
+           family={Stringer},
+           family_i={S\bibinitperiod},
+           given={N.T.},
+           given_i={N\bibinitperiod}}}%
+        {{hash=f4d7272d1eb32511aa1e0104e02d8e8a}{%
+           family={Young},
+           family_i={Y\bibinitperiod},
+           given={R.H.},
+           given_i={R\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers ({IEEE})}%
+      }
+      \strng{namehash}{79e23e5f41fdfc69bcc7989461d6518d}
+      \strng{fullhash}{bd24776b974380707c3700d7224d888c}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Transactions on Industry Applications}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{Grounding and Ground Fault Protection of Multiple Generator Installations on Medium-Voltage Industrial and Commercial Power Systems{—}Part 4: Conclusion and Bibliography Working Group Report}
+      \field{volume}{40}
+      \field{year}{2004}
+      \field{pages}{29\bibrangedash 32}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/TIA.2003.821645
+      \endverb
+    \endentry
+    \entry{Ramon_Ferran}{book}{}
+      \name{author}{2}{}{%
+        {{hash=00e8e07972268fc0552cc9075dfad2a5}{%
+           family={Alcantara},
+           family_i={A\bibinitperiod},
+           given={Ramon\bibnamedelima Julian},
+           given_i={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=9405cd7c590f20377263b9fd0a18b229}{%
+           family={Garcia},
+           family_i={G\bibinitperiod},
+           given={Ferran\bibnamedelima Garcia},
+           given_i={F\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Department of Industiral Engineering}%
+        {Automation}%
+      }
+      \strng{namehash}{9e25cefbb94741d1c1f7a3d14ee7dcf2}
+      \strng{fullhash}{9e25cefbb94741d1c1f7a3d14ee7dcf2}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{100 percent stator ground fault protection - a comparison of two protection methods}
+      \field{year}{2006}
+    \endentry
+  \endsortlist
+  \missing{Ramon-Ferran}
+\endrefsection
+\endinput
+

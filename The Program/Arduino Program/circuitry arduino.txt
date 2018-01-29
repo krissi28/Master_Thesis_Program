@@ -1,0 +1,17 @@
+First Voltage Divider
+2x 2.7M ohm
+reading from UNI-T UDT1025CL Oscilloscope
+2.687 Mohm and 2.698Mohm
+
+Second voltage divider
+1x 2.7M ohm
+2x 330kohm
+
+Current Sensor
+small 0.1uF capacitor
+Larger 4,7uf capacitor
+resistor 4.7k ohm
+
+Green Vcc
+Orange GND
+Yellow Vin

@@ -1,0 +1,18 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[0] Config.pm:346> INFO - Logfile is 'MSC-Kristjan-2017.blg'
+[32] biber-MSWIN64:290> INFO - === 
+[55] Biber.pm:351> INFO - Reading 'MSC-Kristjan-2017.bcf'
+[141] Biber.pm:776> INFO - Found 8 citekeys in bib section 0
+[155] Biber.pm:3493> INFO - Processing section 0
+[178] Biber.pm:3657> INFO - Looking for bibtex format file 'references.bib' for section 0
+[193] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[207] bibtex.pm:1048> INFO - Found BibTeX data source 'references.bib'
+[230] Utils.pm:149> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[230] Utils.pm:149> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[232] Utils.pm:149> WARN - I didn't find a database entry for 'Ramon-Ferran' (section 0)
+[244] UCollate.pm:66> INFO - Overriding locale 'is-IS' defaults 'variable = shifted' with 'variable = non-ignorable'
+[244] UCollate.pm:66> INFO - Overriding locale 'is-IS' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[244] Biber.pm:3306> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'is-IS'
+[249] bbl.pm:526> INFO - Writing 'MSC-Kristjan-2017.bbl' with encoding 'UTF-8'
+[251] bbl.pm:619> INFO - Output to MSC-Kristjan-2017.bbl
+[256] Biber.pm:108> INFO - WARNINGS: 3

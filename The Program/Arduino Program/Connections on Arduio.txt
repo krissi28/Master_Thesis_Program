@@ -1,0 +1,6 @@
+Relay board		Connecting to Arduino
+in1	 SW 1 24 V 	dc input 2
+in2	 SW 2 220 V	dc input 3
+in3	 SW 3 220 V	dc input 4
+in4	 SW 4 220 V	dc input 5
+

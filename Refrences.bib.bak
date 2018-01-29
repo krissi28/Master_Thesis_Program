@@ -1,0 +1,24 @@
+% Encoding: UTF-8
+
+@Article{Pillai_2004,
+  author    = {P. Pillai and B.G. Bailey and J. Bowen and G. Dalke and B.G. Douglas and J. Fischer and J.R. Jones and D.J. Love and C.J. Mozina and N. Nichols and C. Normand and L. Padden and A. Pierce and L.J. Powell and D.D. Shipp and N.T. Stringer and R.H. Young},
+  title     = {Grounding and Ground Fault Protection of Multiple Generator Installations on Medium-Voltage Industrial and Commercial Power Systems{\textemdash}Part 4: Conclusion and Bibliography Working Group Report},
+  journal   = {{IEEE} Transactions on Industry Applications},
+  year      = {2004},
+  volume    = {40},
+  number    = {1},
+  pages     = {29--32},
+  month     = {jan},
+  doi       = {10.1109/TIA.2003.821645},
+  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+}
+
+@Book{Ramon-Ferran,
+  title     = {100% stator ground fault protection - a comparison of two protection methods},
+  publisher = {Department of Industiral Engineering and Automation},
+  year      = {2006},
+  author    = {Ramon Julian Alcantara and Ferran Garcia Garcia},
+  url       = {https://pt.scribd.com/document/117984773/100-stator-earth-fault},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
