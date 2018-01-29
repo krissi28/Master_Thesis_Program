@@ -1,0 +1,22 @@
+C:\Users\Notandi\Documents\Skoli\C# and Arduino\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\bin\Debug\Arduino Potentio metera and Arduino.exe.config
+C:\Users\Notandi\Documents\Skoli\C# and Arduino\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\bin\Debug\Arduino Potentio metera and Arduino.exe
+C:\Users\Notandi\Documents\Skoli\C# and Arduino\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\bin\Debug\Arduino Potentio metera and Arduino.pdb
+C:\Users\Notandi\Documents\Skoli\C# and Arduino\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\obj\Debug\Arduino Potentio metera and Arduino.csprojResolveAssemblyReference.cache
+C:\Users\Notandi\Documents\Skoli\C# and Arduino\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\obj\Debug\Arduino_Potentio_metera_and_Arduino.Form1.resources
+C:\Users\Notandi\Documents\Skoli\C# and Arduino\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\obj\Debug\Arduino_Potentio_metera_and_Arduino.Properties.Resources.resources
+C:\Users\Notandi\Documents\Skoli\C# and Arduino\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\obj\Debug\Arduino Potentio metera and Arduino.csproj.GenerateResource.Cache
+C:\Users\Notandi\Documents\Skoli\C# and Arduino\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\obj\Debug\Arduino Potentio metera and Arduino.csproj.CoreCompileInputs.cache
+C:\Users\Notandi\Documents\Skoli\C# and Arduino\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\obj\Debug\Arduino Potentio metera and Arduino.exe
+C:\Users\Notandi\Documents\Skoli\C# and Arduino\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\obj\Debug\Arduino Potentio metera and Arduino.pdb
+C:\Users\Notandi\Documents\Skoli\C# and Arduino\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\obj\Debug\Arduino_Potentio_metera_and_Arduino.Form2.resources
+C:\Users\Notandi\Documents\Skoli\Master_Thesis_Program\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\bin\Debug\Arduino Potentio metera and Arduino.exe.config
+C:\Users\Notandi\Documents\Skoli\Master_Thesis_Program\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\bin\Debug\Arduino Potentio metera and Arduino.exe
+C:\Users\Notandi\Documents\Skoli\Master_Thesis_Program\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\bin\Debug\Arduino Potentio metera and Arduino.pdb
+C:\Users\Notandi\Documents\Skoli\Master_Thesis_Program\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\obj\Debug\Arduino Potentio metera and Arduino.csprojResolveAssemblyReference.cache
+C:\Users\Notandi\Documents\Skoli\Master_Thesis_Program\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\obj\Debug\Arduino_Potentio_metera_and_Arduino.Form1.resources
+C:\Users\Notandi\Documents\Skoli\Master_Thesis_Program\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\obj\Debug\Arduino_Potentio_metera_and_Arduino.Form2.resources
+C:\Users\Notandi\Documents\Skoli\Master_Thesis_Program\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\obj\Debug\Arduino_Potentio_metera_and_Arduino.Properties.Resources.resources
+C:\Users\Notandi\Documents\Skoli\Master_Thesis_Program\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\obj\Debug\Arduino Potentio metera and Arduino.csproj.GenerateResource.Cache
+C:\Users\Notandi\Documents\Skoli\Master_Thesis_Program\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\obj\Debug\Arduino Potentio metera and Arduino.csproj.CoreCompileInputs.cache
+C:\Users\Notandi\Documents\Skoli\Master_Thesis_Program\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\obj\Debug\Arduino Potentio metera and Arduino.exe
+C:\Users\Notandi\Documents\Skoli\Master_Thesis_Program\Potentiometer\Arduino Potentio metera and Arduino\Arduino Potentio metera and Arduino\obj\Debug\Arduino Potentio metera and Arduino.pdb
